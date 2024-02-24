@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="maven-wrapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Service-Registry/Service-Registry/.mvn/wrapper/maven-wrapper.jar!/" />
+      <root url="file://$PROJECT_DIR$/Service-Registry/Service-Registry/.mvn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
